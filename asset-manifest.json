@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aniket/static/css/main.073c9b0a.css",
+    "main.js": "/aniket/static/js/main.265c387e.js",
+    "static/js/787.d4a6ea14.chunk.js": "/aniket/static/js/787.d4a6ea14.chunk.js",
+    "index.html": "/aniket/index.html",
+    "main.073c9b0a.css.map": "/aniket/static/css/main.073c9b0a.css.map",
+    "main.265c387e.js.map": "/aniket/static/js/main.265c387e.js.map",
+    "787.d4a6ea14.chunk.js.map": "/aniket/static/js/787.d4a6ea14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.265c387e.js"
+  ]
+}
